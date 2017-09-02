@@ -85,3 +85,5 @@ p <- ggplot(data = d, aes(x = carat, y = price)) +
   geom_smooth(aes(colour = cut, fill = cut)) + facet_wrap(~ cut)
 p
 ggplotly(p)
+
+# testing commits process
