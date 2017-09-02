@@ -87,3 +87,6 @@ p
 ggplotly(p)
 
 # testing commits process
+# testing commits process 2.2
+# CAnt seem to get it to merge
+
